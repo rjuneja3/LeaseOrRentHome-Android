@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_apartment"
+        android:title="Apartments" />
+    <item
+        android:id="@+id/menu_detatchedHome"
+        android:title="Detatched Home" />
+    <item
+        android:id="@+id/menu_semiDetatched"
+        android:title="Semi Detatched Home" />
+    <item
+        android:id="@+id/menu_condominium"
+        android:title="Condominium Apartment" />
+    <item
+        android:id="@+id/menu_townHouse"
+        android:title="Town House" />
+</menu>

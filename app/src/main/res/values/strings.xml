@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RohanJuneja_LeaseOrRentHome</string>
+    <string name="selected_homes">Checkout</string>
+    <string name="main_activity">Welcome to RentOrLeaseHouse Inc app. We are #1 ranked brokerage company. We offer all kind of houses, condos, detatched, semi-detached, townhouses and condominiums at an affordable rate!</string>
+    <string name="title_activity_list_adapter">ListAdapter</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
